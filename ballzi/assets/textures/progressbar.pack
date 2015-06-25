@@ -1,0 +1,61 @@
+
+progressbar.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+progbar.1
+  rotate: false
+  xy: 1, 261
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1
+progbar.2
+  rotate: false
+  xy: 1, 131
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1
+progbar.3
+  rotate: false
+  xy: 1027, 261
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1
+progbar.4
+  rotate: false
+  xy: 1, 1
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1
+progbar.5
+  rotate: false
+  xy: 1027, 131
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1
+progbar.6
+  rotate: false
+  xy: 2053, 261
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1
+progbar.7
+  rotate: false
+  xy: 1027, 1
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1
+progbar.8
+  rotate: false
+  xy: 2053, 131
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1

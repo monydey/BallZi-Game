@@ -1,0 +1,292 @@
+
+tiefighteranimation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiefighterrolling.1
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.21
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.41
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.10
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.11
+  rotate: false
+  xy: 256, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.12
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.13
+  rotate: false
+  xy: 512, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.14
+  rotate: false
+  xy: 512, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.15
+  rotate: false
+  xy: 768, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.16
+  rotate: false
+  xy: 768, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.17
+  rotate: false
+  xy: 1024, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.18
+  rotate: false
+  xy: 1024, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.19
+  rotate: false
+  xy: 1280, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.2
+  rotate: false
+  xy: 1280, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.20
+  rotate: false
+  xy: 1536, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.22
+  rotate: false
+  xy: 1536, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.23
+  rotate: false
+  xy: 1792, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.24
+  rotate: false
+  xy: 1792, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.25
+  rotate: false
+  xy: 2048, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.26
+  rotate: false
+  xy: 2048, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.27
+  rotate: false
+  xy: 2304, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.28
+  rotate: false
+  xy: 2304, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.29
+  rotate: false
+  xy: 2560, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.3
+  rotate: false
+  xy: 2560, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.30
+  rotate: false
+  xy: 2816, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.31
+  rotate: false
+  xy: 2816, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.32
+  rotate: false
+  xy: 3072, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.33
+  rotate: false
+  xy: 3072, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.34
+  rotate: false
+  xy: 3328, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.35
+  rotate: false
+  xy: 3328, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.36
+  rotate: false
+  xy: 3584, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.37
+  rotate: false
+  xy: 3584, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.38
+  rotate: false
+  xy: 3840, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.39
+  rotate: false
+  xy: 3840, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.4
+  rotate: false
+  xy: 4096, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.40
+  rotate: false
+  xy: 4096, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.5
+  rotate: false
+  xy: 4352, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.6
+  rotate: false
+  xy: 4352, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.7
+  rotate: false
+  xy: 4608, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.8
+  rotate: false
+  xy: 4608, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiefighterrolling.9
+  rotate: false
+  xy: 4864, 258
+  size: 254, 254
+  orig: 254, 254
+  offset: 0, 0
+  index: -1

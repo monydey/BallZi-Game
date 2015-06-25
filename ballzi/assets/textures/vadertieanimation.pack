@@ -1,0 +1,292 @@
+
+vadertieanimation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vadertierolling.1
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.21
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.41
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.10
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.11
+  rotate: false
+  xy: 256, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.12
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.13
+  rotate: false
+  xy: 512, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.14
+  rotate: false
+  xy: 512, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.15
+  rotate: false
+  xy: 768, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.16
+  rotate: false
+  xy: 768, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.17
+  rotate: false
+  xy: 1024, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.18
+  rotate: false
+  xy: 1024, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.19
+  rotate: false
+  xy: 1280, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.2
+  rotate: false
+  xy: 1280, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.20
+  rotate: false
+  xy: 1536, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.22
+  rotate: false
+  xy: 1536, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.23
+  rotate: false
+  xy: 1792, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.24
+  rotate: false
+  xy: 1792, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.25
+  rotate: false
+  xy: 2048, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.26
+  rotate: false
+  xy: 2048, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.27
+  rotate: false
+  xy: 2304, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.28
+  rotate: false
+  xy: 2304, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.29
+  rotate: false
+  xy: 2560, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.3
+  rotate: false
+  xy: 2560, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.30
+  rotate: false
+  xy: 2816, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.31
+  rotate: false
+  xy: 2816, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.32
+  rotate: false
+  xy: 3072, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.33
+  rotate: false
+  xy: 3072, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.34
+  rotate: false
+  xy: 3328, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.35
+  rotate: false
+  xy: 3328, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.36
+  rotate: false
+  xy: 3584, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.37
+  rotate: false
+  xy: 3584, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.38
+  rotate: false
+  xy: 3840, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.39
+  rotate: false
+  xy: 3840, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.4
+  rotate: false
+  xy: 4096, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.40
+  rotate: false
+  xy: 4096, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.5
+  rotate: false
+  xy: 4352, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.6
+  rotate: false
+  xy: 4352, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.7
+  rotate: false
+  xy: 4608, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.8
+  rotate: false
+  xy: 4608, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+vadertierolling.9
+  rotate: false
+  xy: 4864, 258
+  size: 254, 254
+  orig: 254, 254
+  offset: 0, 0
+  index: -1

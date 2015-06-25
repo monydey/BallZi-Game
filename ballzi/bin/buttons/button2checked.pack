@@ -1,0 +1,26 @@
+
+button2checked.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button.1
+  rotate: false
+  xy: 1, 1
+  size: 200, 42
+  orig: 200, 42
+  offset: 0, 0
+  index: -1
+button.2
+  rotate: false
+  xy: 203, 1
+  size: 200, 42
+  orig: 200, 42
+  offset: 0, 0
+  index: -1
+button.3
+  rotate: false
+  xy: 203, 1
+  size: 200, 42
+  orig: 200, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,292 @@
+
+awinganimation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+awingrolling.1
+  rotate: false
+  xy: 0, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.10
+  rotate: false
+  xy: 0, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.11
+  rotate: false
+  xy: 512, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.12
+  rotate: false
+  xy: 0, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.13
+  rotate: false
+  xy: 0, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.14
+  rotate: false
+  xy: 512, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.15
+  rotate: false
+  xy: 1024, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.16
+  rotate: false
+  xy: 512, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.17
+  rotate: false
+  xy: 512, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.18
+  rotate: false
+  xy: 1024, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.19
+  rotate: false
+  xy: 1536, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.2
+  rotate: false
+  xy: 1024, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.20
+  rotate: false
+  xy: 1024, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.21
+  rotate: false
+  xy: 1536, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.22
+  rotate: false
+  xy: 2048, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.23
+  rotate: false
+  xy: 1536, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.24
+  rotate: false
+  xy: 1536, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.25
+  rotate: false
+  xy: 2048, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.26
+  rotate: false
+  xy: 2560, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.27
+  rotate: false
+  xy: 2048, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.28
+  rotate: false
+  xy: 2048, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.29
+  rotate: false
+  xy: 2560, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.3
+  rotate: false
+  xy: 3072, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.30
+  rotate: false
+  xy: 2560, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.31
+  rotate: false
+  xy: 2560, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.32
+  rotate: false
+  xy: 3072, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.33
+  rotate: false
+  xy: 3584, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.34
+  rotate: false
+  xy: 3072, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.35
+  rotate: false
+  xy: 3072, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.36
+  rotate: false
+  xy: 3584, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.37
+  rotate: false
+  xy: 4096, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.38
+  rotate: false
+  xy: 3584, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.39
+  rotate: false
+  xy: 3584, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.4
+  rotate: false
+  xy: 4096, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.40
+  rotate: false
+  xy: 4608, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.41
+  rotate: false
+  xy: 4096, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.5
+  rotate: false
+  xy: 4096, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.6
+  rotate: false
+  xy: 4608, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.7
+  rotate: false
+  xy: 5120, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.8
+  rotate: false
+  xy: 4608, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+awingrolling.9
+  rotate: false
+  xy: 5120, 1026
+  size: 510, 510
+  orig: 510, 510
+  offset: 0, 0
+  index: -1

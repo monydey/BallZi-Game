@@ -1,0 +1,348 @@
+
+tiedefenderexplosion.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiedefexpl.0001
+  rotate: false
+  xy: 1, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0002
+  rotate: false
+  xy: 1, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0003
+  rotate: false
+  xy: 1, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0004
+  rotate: false
+  xy: 1, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0005
+  rotate: false
+  xy: 1, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0006
+  rotate: false
+  xy: 515, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0007
+  rotate: false
+  xy: 1, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0008
+  rotate: false
+  xy: 515, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0009
+  rotate: false
+  xy: 1029, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0010
+  rotate: false
+  xy: 1, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0011
+  rotate: false
+  xy: 515, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0012
+  rotate: false
+  xy: 1029, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0013
+  rotate: false
+  xy: 1543, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0014
+  rotate: false
+  xy: 1, 1029
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0015
+  rotate: false
+  xy: 515, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0016
+  rotate: false
+  xy: 1029, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0017
+  rotate: false
+  xy: 1543, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0018
+  rotate: false
+  xy: 2057, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0019
+  rotate: false
+  xy: 1, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0020
+  rotate: false
+  xy: 515, 1029
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0021
+  rotate: false
+  xy: 1029, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0022
+  rotate: false
+  xy: 1543, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0023
+  rotate: false
+  xy: 2057, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0024
+  rotate: false
+  xy: 2571, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0025
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0026
+  rotate: false
+  xy: 515, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0027
+  rotate: false
+  xy: 1029, 1029
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0028
+  rotate: false
+  xy: 1543, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0029
+  rotate: false
+  xy: 2057, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0030
+  rotate: false
+  xy: 2571, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0031
+  rotate: false
+  xy: 3085, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0032
+  rotate: false
+  xy: 515, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0033
+  rotate: false
+  xy: 1029, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0034
+  rotate: false
+  xy: 1543, 1029
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0035
+  rotate: false
+  xy: 2057, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0036
+  rotate: false
+  xy: 2571, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0037
+  rotate: false
+  xy: 3085, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0038
+  rotate: false
+  xy: 1029, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0039
+  rotate: false
+  xy: 1543, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0040
+  rotate: false
+  xy: 2057, 1029
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0041
+  rotate: false
+  xy: 2571, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0042
+  rotate: false
+  xy: 3085, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0043
+  rotate: false
+  xy: 1543, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0044
+  rotate: false
+  xy: 2057, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0045
+  rotate: false
+  xy: 2571, 1029
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0046
+  rotate: false
+  xy: 3085, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0047
+  rotate: false
+  xy: 2057, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0048
+  rotate: false
+  xy: 2571, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tiedefexpl.0049
+  rotate: false
+  xy: 3385, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,75 @@
+
+z95 rotating.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+z95 headhunter.1
+  rotate: false
+  xy: 1, 173
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+z95 headhunter.10
+  rotate: false
+  xy: 1, 1
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+z95 headhunter.2
+  rotate: false
+  xy: 203, 173
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+z95 headhunter.3
+  rotate: false
+  xy: 203, 1
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+z95 headhunter.4
+  rotate: false
+  xy: 405, 173
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+z95 headhunter.5
+  rotate: false
+  xy: 405, 1
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+z95 headhunter.6
+  rotate: false
+  xy: 607, 173
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+z95 headhunter.7
+  rotate: false
+  xy: 607, 1
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+z95 headhunter.8
+  rotate: false
+  xy: 809, 173
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+z95 headhunter.9
+  rotate: false
+  xy: 809, 3
+  size: 198, 168
+  orig: 198, 168
+  offset: 0, 0
+  index: -1

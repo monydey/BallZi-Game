@@ -1,0 +1,26 @@
+
+button_pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button.1
+  rotate: false
+  xy: 1, 1
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+button.2
+  rotate: false
+  xy: 153, 1
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+button.3
+  rotate: false
+  xy: 305, 1
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1

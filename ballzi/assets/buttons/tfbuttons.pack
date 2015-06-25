@@ -1,0 +1,19 @@
+
+tfbuttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tfbutton.1
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tfbutton.2
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

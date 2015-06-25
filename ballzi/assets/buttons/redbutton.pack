@@ -1,0 +1,26 @@
+
+redbutton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button.1
+  rotate: false
+  xy: 1, 139
+  size: 187, 67
+  orig: 187, 67
+  offset: 0, 0
+  index: -1
+button.3
+  rotate: false
+  xy: 1, 70
+  size: 187, 67
+  orig: 187, 67
+  offset: 0, 0
+  index: -1
+button.2
+  rotate: false
+  xy: 1, 1
+  size: 187, 67
+  orig: 187, 67
+  offset: 0, 0
+  index: -1

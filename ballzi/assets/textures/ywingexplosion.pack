@@ -1,0 +1,355 @@
+
+ywingexplosion.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ywing.1
+  rotate: false
+  xy: 1, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.10
+  rotate: false
+  xy: 1, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.11
+  rotate: false
+  xy: 515, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.12
+  rotate: false
+  xy: 1, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.13
+  rotate: false
+  xy: 515, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.14
+  rotate: false
+  xy: 1029, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.15
+  rotate: false
+  xy: 1, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.16
+  rotate: false
+  xy: 515, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.17
+  rotate: false
+  xy: 1029, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.18
+  rotate: false
+  xy: 1543, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.19
+  rotate: false
+  xy: 1, 1029
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.2
+  rotate: false
+  xy: 515, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.20
+  rotate: false
+  xy: 1029, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.21
+  rotate: false
+  xy: 1543, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.22
+  rotate: false
+  xy: 2057, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.23
+  rotate: false
+  xy: 1, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.24
+  rotate: false
+  xy: 515, 1029
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.25
+  rotate: false
+  xy: 1029, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.26
+  rotate: false
+  xy: 1543, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.27
+  rotate: false
+  xy: 2057, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.28
+  rotate: false
+  xy: 2571, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.29
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.3
+  rotate: false
+  xy: 515, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.30
+  rotate: false
+  xy: 1029, 1029
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.31
+  rotate: false
+  xy: 1543, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.32
+  rotate: false
+  xy: 2057, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.33
+  rotate: false
+  xy: 2571, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.34
+  rotate: false
+  xy: 3085, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.35
+  rotate: false
+  xy: 515, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.36
+  rotate: false
+  xy: 1029, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.37
+  rotate: false
+  xy: 1543, 1029
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.38
+  rotate: false
+  xy: 2057, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.39
+  rotate: false
+  xy: 2571, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.4
+  rotate: false
+  xy: 3085, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.40
+  rotate: false
+  xy: 3599, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.41
+  rotate: false
+  xy: 1029, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.42
+  rotate: false
+  xy: 1543, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.43
+  rotate: false
+  xy: 2057, 1029
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.44
+  rotate: false
+  xy: 2571, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.45
+  rotate: false
+  xy: 3085, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.46
+  rotate: false
+  xy: 3599, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.47
+  rotate: false
+  xy: 4113, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.48
+  rotate: false
+  xy: 1543, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.49
+  rotate: false
+  xy: 2057, 515
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.5
+  rotate: false
+  xy: 2571, 1029
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.50
+  rotate: false
+  xy: 3085, 1543
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.6
+  rotate: false
+  xy: 3599, 2057
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.7
+  rotate: false
+  xy: 4113, 2571
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.8
+  rotate: false
+  xy: 4627, 3085
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ywing.9
+  rotate: false
+  xy: 2057, 3
+  size: 510, 510
+  orig: 510, 510
+  offset: 0, 0
+  index: -1

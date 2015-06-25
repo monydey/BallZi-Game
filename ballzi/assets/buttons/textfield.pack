@@ -1,0 +1,19 @@
+
+button2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+textfield.1
+  rotate: false
+  xy: 10, 1
+  size: 64, 38
+  orig: 84, 38
+  offset: 0, 0
+  index: -1
+textfield.2
+  rotate: false
+  xy: 87, 1
+  size: 4, 38
+  orig: 84, 38
+  offset: 0, 0
+  index: -1

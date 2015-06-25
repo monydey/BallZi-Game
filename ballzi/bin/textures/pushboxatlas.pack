@@ -1,0 +1,222 @@
+
+pushboxatlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pushbox.0001
+  rotate: false
+  xy: 1, 781
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0002
+  rotate: false
+  xy: 1, 651
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0003
+  rotate: false
+  xy: 259, 781
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0004
+  rotate: false
+  xy: 1, 521
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0005
+  rotate: false
+  xy: 259, 651
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0006
+  rotate: false
+  xy: 517, 781
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0007
+  rotate: false
+  xy: 1, 391
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0008
+  rotate: false
+  xy: 259, 521
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0009
+  rotate: false
+  xy: 517, 651
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0010
+  rotate: false
+  xy: 775, 781
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0011
+  rotate: false
+  xy: 1, 261
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0012
+  rotate: false
+  xy: 259, 391
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0013
+  rotate: false
+  xy: 517, 521
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0014
+  rotate: false
+  xy: 775, 651
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0015
+  rotate: false
+  xy: 1033, 781
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0016
+  rotate: false
+  xy: 1, 131
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0017
+  rotate: false
+  xy: 259, 261
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0018
+  rotate: false
+  xy: 517, 391
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0019
+  rotate: false
+  xy: 775, 521
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0020
+  rotate: false
+  xy: 1033, 651
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0021
+  rotate: false
+  xy: 1291, 781
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0022
+  rotate: false
+  xy: 1, 1
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0023
+  rotate: false
+  xy: 259, 131
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0024
+  rotate: false
+  xy: 517, 261
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0025
+  rotate: false
+  xy: 775, 391
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0026
+  rotate: false
+  xy: 1033, 521
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0027
+  rotate: false
+  xy: 1291, 651
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0028
+  rotate: false
+  xy: 1549, 781
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0029
+  rotate: false
+  xy: 259, 1
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0030
+  rotate: false
+  xy: 517, 131
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pushbox.0031
+  rotate: false
+  xy: 775, 261
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
