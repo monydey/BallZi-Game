@@ -1,0 +1,12 @@
+
+Crashes if opengl driver are not supported by graphic cards or drivers
+
+Crashes if use lower than java 7 jre.
+
+If the resolution is too high for your monitor and rescales automaticly, the buttons could not work properly. (problems with windows resoltions like 1366x768 when game resolution is 1280x800).
+To fix the problems go on "fullscreen on" in setup screen.
+
+
+Colliding Sounds are sometime way too often.
+
+Loosing screen when ball stops needs very long to show.
